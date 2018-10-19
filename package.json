@@ -1,0 +1,17 @@
+{
+  "name": "graphics",
+  "version": "1.0.0",
+  "description": "An APP for test of GraphQL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "German Lugo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.6.12",
+    "graphql": "^14.0.2",
+    "nodemon": "^1.18.4"
+  }
+}
